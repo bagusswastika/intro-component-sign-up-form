@@ -20,10 +20,11 @@
 }
 * .container {
   scale: 0.8;
-  padding: 80px 24px;
   display: flex;
   flex-direction: column;
   text-align: center;
+  justify-content: center;
+  align-items: center;
   gap: 40px;
 }
 * .container .text {
